@@ -1,0 +1,15 @@
+/**
+  * @name Stray Font
+  * @author tuwtl#0001
+  * @description Robot language, found in the game Stray, in discord usernames!
+  * @version 1.0
+  * @authorId 449374739597754368
+*/
+
+[id^="message-username"],
+[class^="username"],
+[class^="bot"],
+[class$="nickname-2rimyL"],
+[role^="textbox"] {
+  font-family: "MyFont", monospace;
+}
